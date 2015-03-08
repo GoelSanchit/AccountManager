@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AccountManager</string>
+    <string name="accountsprompt">Select Account</string>
+</resources>
