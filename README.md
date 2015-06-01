@@ -5,7 +5,7 @@ This app is classified in android category. Gives you the authentication to all 
 1)Loan
 2)Transaction
 3)Profit
-4)Loss
+4)Loss.
 5)Bank History.
 
 Much More ..... Fork This Project and Contibute..
