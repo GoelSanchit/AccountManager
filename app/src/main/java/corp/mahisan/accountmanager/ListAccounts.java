@@ -1,4 +1,4 @@
-package corp.mahisan.accountmanager;
+package corp.mahisan.accountmanager
 
 import android.app.Activity;
 import android.content.Intent;
