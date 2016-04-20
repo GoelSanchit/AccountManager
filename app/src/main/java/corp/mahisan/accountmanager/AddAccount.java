@@ -19,7 +19,6 @@ public class AddAccount extends Activity {
 	        setContentView(R.layout.addaccount);
 	    }
 	 
-	 
 	 @Override
 		public boolean onCreateOptionsMenu(Menu menu) {
 			return Utils.inflateMenu(this,menu);
